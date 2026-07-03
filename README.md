@@ -72,7 +72,7 @@ Heart-Disease-Prediction/
 
 ### High Risk Prediction
 
-![High Risk](images/high-risk.png)
+![High Risk](high-risk.png)
 
 
 ### 🎯 Future Improvements
