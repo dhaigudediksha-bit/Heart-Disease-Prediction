@@ -64,7 +64,7 @@ Heart-Disease-Prediction/
 
 ### Home Page
 
-![Home Page](images/home.png)
+![Home Page](HomePage.png)
 
 ### Low Risk Prediction
 
