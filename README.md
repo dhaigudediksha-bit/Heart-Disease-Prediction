@@ -1,10 +1,10 @@
-❤️ Heart Disease Prediction
+## ❤️ Heart Disease Prediction
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project is a Machine Learning web application that predicts whether a person is at risk of heart disease based on medical parameters. The application is built using Python, Scikit-learn, and Streamlit.
 
-🚀 Features
+### 🚀 Features
 
 - User-friendly Streamlit interface
 - Predicts heart disease risk
@@ -12,7 +12,7 @@ This project is a Machine Learning web application that predicts whether a perso
 - Fast and easy to use
 - Displays prediction instantly
 
-📊 Dataset Features
+### 📊 Dataset Features
 
 - Age
 - Sex
@@ -26,7 +26,7 @@ This project is a Machine Learning web application that predicts whether a perso
 - Oldpeak
 - ST Slope
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Python
 - Streamlit
@@ -37,7 +37,7 @@ This project is a Machine Learning web application that predicts whether a perso
 - Seaborn
 - Joblib
 
-▶️ How to Run
+### ▶️ How to Run
 
 1. Clone the repository:
    
@@ -51,7 +51,7 @@ This project is a Machine Learning web application that predicts whether a perso
    
    streamlit run app.py
 
-📁 Project Structure
+### 📁 Project Structure
 
 Heart-Disease-Prediction/
 │── app.py
@@ -60,7 +60,22 @@ Heart-Disease-Prediction/
 │── requirements.txt
 │── README.md
 
-🎯 Future Improvements
+## 📷 Application Screenshots
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Low Risk Prediction
+
+![Low Risk](images/low-risk.png)
+
+### High Risk Prediction
+
+![High Risk](images/high-risk.png)
+
+
+### 🎯 Future Improvements
 
 - Improve prediction accuracy
 - Deploy the application online
@@ -68,5 +83,5 @@ Heart-Disease-Prediction/
 - Include visual analytics and reports
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 Diksha Dhaigude
