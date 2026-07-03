@@ -68,7 +68,7 @@ Heart-Disease-Prediction/
 
 ### Low Risk Prediction
 
-![Low Risk](images/low-risk.png)
+![Low Risk](low-risk.png)
 
 ### High Risk Prediction
 
