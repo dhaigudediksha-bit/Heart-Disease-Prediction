@@ -41,7 +41,7 @@ This project is a Machine Learning web application that predicts whether a perso
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/Heart-Disease-Prediction.git
+   git clone https://github.com/dhaigudediksha-bit/Heart-Disease-Prediction.git
 
 2. Install the required packages:
    
